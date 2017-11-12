@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["yishnish"]
   spec.email         = ["yishnish@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{a wrapper for Net::Telnet or w/e}
+  spec.description   = %q{To be used by humans and beasts alike}
   spec.homepage      = "https://github.com/yishnish/mytelnet_rb"
   spec.license       = "MIT"
 
