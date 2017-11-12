@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yishnish/mytelnet_rb.svg?branch=master)](https://travis-ci.org/yishnish/mytelnet_rb) [![codecov](https://codecov.io/gh/yishnish/mytelnet_rb/branch/master/graph/badge.svg)](https://codecov.io/gh/yishnish/mytelnet_rb)
+
 # MytelnetRb
 
 Yeah! This thing here, it's got some stuff!
